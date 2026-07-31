@@ -1,7 +1,11 @@
 {
   "version": "3.0.16.0727.03",
-  "title": "Pembaruan Tersedia",
+  "title": "Update Available",
   "subtitle": "Silakan Update Ke Versi Terbaru 😉",
-  "update_url": "https://telegram.me/AtminNazi_Channel",
+  "update_urls": [
+    {"name": "Telegram", "url": "https://telegram.me/AtminNazi_Channel"},
+    {"name": "GDrive", "url": ""},
+    {"name": "Mediafire", "url": ""}
+  ],
   "show_close_button": false
 }

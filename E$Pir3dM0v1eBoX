@@ -1,9 +1,0 @@
-{
-  "version": "3.0.16.0727.03",
-  "title": "Update Available",
-  "subtitle": "Silakan Update Ke Versi Terbaru 😉",
-  "update_urls": [
-    {"name": "Telegram", "url": "https://t.me/AtminNazi_Channel"}
-  ],
-  "show_close_button": false
-}

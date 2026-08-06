@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "title": "Dari: AtminNazi",
+  "message": "Tes Notif🗿",
+  "style": "inbox",
+"lines": ["Jangan Lupa Bantu Share Mod Ini 😉"],
+  "sound": true,
+  "vibrate": true,
+  "expires": "2026-01-01T00:00:00",
+  "image": "https://animestream.nazi04.workers.dev/l.top4top.io/p_3570lq73m0.jpg",
+  "actions": [
+    {
+      "title": "TELEGRAM",
+      "url": "https://telegram.me/AtminNazi_Channel"
+    },
+    {
+      "title": "TUTUP"
+    }
+  ]
+}
+
+// StyleType: bigtext|bigpicture|inbox

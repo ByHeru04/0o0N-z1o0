@@ -1,6 +1,6 @@
 {
   "settings": {
-    "app_version": "2.3.3",
+    "app_version": "2.3.2",
     "update_url": "https://t.me/AtminNazi_Channel",
     "blacklisted_apps": "com.topjohnwu.magisk,com.noshufou.android.su,eu.chainfire.supersu,com.cheat.engine,com.termux",
     "telegram_url": "https://t.me/+VUofscFM6Ls4YjJl"

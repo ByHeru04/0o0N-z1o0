@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "app_version": "2.3.3",
+    "update_url": "https://t.me/AtminNazi_Channel",
+    "blacklisted_apps": "com.topjohnwu.magisk,com.noshufou.android.su,eu.chainfire.supersu,com.cheat.engine,com.termux",
+    "telegram_url": "https://t.me/+VUofscFM6Ls4YjJl"
+  },
+  "security_toggles": {
+    "anti_debug": false, 
+    "anti_root": false,
+    "anti_emulator": false,
+    "anti_vpn": false,
+    "anti_hooking": false,
+    "signature_check": true,
+    "original_signature": "0241eb7d3815bf3926eca839003271801787e62fbde8abd2eefcd5989dded339"
+  },
+  "devices": {
+    "DEV-ABCDE12345": {
+      "login_key": "VIP2026",
+      "active": false
+    }
+  }
+}

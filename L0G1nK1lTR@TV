@@ -11,7 +11,7 @@
     "anti_emulator": false,
     "anti_vpn": false,
     "anti_hooking": false,
-    "signature_check": true,
+    "signature_check": false,
     "original_signature": "0241eb7d3815bf3926eca839003271801787e62fbde8abd2eefcd5989dded339"
   },
   "devices": {
